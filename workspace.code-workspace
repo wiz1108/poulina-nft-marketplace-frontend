@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"name": "polygon-ethereum-nextjs-marketplace",
+			"uri": "vscode-remote://ssh-remote+yellow-barnacle-dcnvkses/workspace/polygon-ethereum-nextjs-marketplace"
+		}
+	],
+	"remoteAuthority": "ssh-remote+yellow-barnacle-dcnvkses",
+	"settings": {}
+}
